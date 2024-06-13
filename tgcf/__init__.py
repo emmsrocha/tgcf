@@ -5,4 +5,4 @@ https://github.com/aahnik/tgcf
 
 from importlib.metadata import version
 
-__version__ = version(__1.1.3__)
+__version__ = version(113)
