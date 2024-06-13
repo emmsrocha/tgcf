@@ -6,4 +6,4 @@ https://github.com/aahnik/tgcf
 
 from importlib.metadata import version
 
-__version__ = version(tgcfemm)
+__version__ = version(__version__)
